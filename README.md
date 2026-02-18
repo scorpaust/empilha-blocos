@@ -2,7 +2,7 @@
 
 A fast-paced block stacking game built with **Phaser 3**. Stack blocks as high as you can, chain perfect combos, collect powerups and test your luck in the post-game slot.
 
-🎮 **Play on CrazyGames:** *(coming soon)*
+🎮 **Play on CrazyGames:** 
 
 ---
 
